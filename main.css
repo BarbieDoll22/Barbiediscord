@@ -1809,7 +1809,7 @@
   right: 45%;
   width: 40px;
   height: 40px;
-  background: url("https://i.imgur.com/OBSWYht.png");
+  background: url("https://i.imgur.com/lxEliPY.png");
 }
 :root [class*=notAppAsidePanel] > [class*=app] > [class*=app] > [class*=layers]::before {
   z-index: 0;
@@ -1839,7 +1839,7 @@
   right: 430px;
   width: 30px;
   height: 40px;
-  background: url("https://i.imgur.com/JMoXBIs.png") no-repeat;
+  background: url("https://i.imgur.com/yWgQ8og.png") no-repeat;
 }
 @media (max-width: 1350px) {
   :root .bg__12180::before {
