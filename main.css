@@ -1884,7 +1884,7 @@
     display: flex;
     align-items: flex-start;
     justify-content: center;
-    padding-top: 30px; /* Add padding to fine-tune the vertical position */
+    padding-top: 90px; /* Add padding to fine-tune the vertical position */
     font-size: 30px;
     color: var(--text-normal);
     border-radius: var(--border-radius);
@@ -1899,7 +1899,7 @@
     z-index: -1;
     width: 300px;
     border-radius: var(--border-radius);
-    background: var(--jumping-gif) bottom/70% no-repeat;
+    background: var(--jumping-gif) bottom/80% no-repeat;
   }
   [class*=guilds] + :nth-child(2) {
     margin-right: 450px;
