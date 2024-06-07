@@ -1898,7 +1898,7 @@
     z-index: -1;
     width: 300px;
     border-radius: var(--border-radius);
-    background: var(--jumping-gif) bottom/40% no-repeat;
+    background: var(--jumping-gif) bottom/70% no-repeat;
   }
   [class*=guilds] + :nth-child(2) {
     margin-right: 450px;
