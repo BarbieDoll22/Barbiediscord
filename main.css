@@ -1872,9 +1872,9 @@
     margin-right: 450px;
   }
   [class*=layers] > [class*=layer] > [class*=container]::after {
-    content: "Stay Slutty ♥";
+    content: "Stay Slutty you Bimbo! ♥";
     position: fixed;
-    top: 220px;
+    top: 180px;
     bottom: 85px;
     right: 60px;
     z-index: -2;
