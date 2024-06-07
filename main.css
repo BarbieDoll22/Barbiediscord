@@ -1884,6 +1884,7 @@
     display: flex;
     align-items: flex-start;
     justify-content: center;
+    padding-top: 30px; /* Add padding to fine-tune the vertical position */
     font-size: 30px;
     color: var(--text-normal);
     border-radius: var(--border-radius);
