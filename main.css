@@ -1882,7 +1882,7 @@
     background-color: var(--background-primary);
     text-align: center;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     font-size: 30px;
     color: var(--text-normal);
