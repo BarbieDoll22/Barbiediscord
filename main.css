@@ -1872,7 +1872,7 @@
     margin-right: 450px;
   }
   [class*=layers] > [class*=layer] > [class*=container]::after {
-    content: attr(data-content); /* Use data-content attribute for dynamic content */
+    content: "O-M-G Barbie Doll Luvscox is like such a dumb bimbo slut! ♥";
     position: fixed;
     top: 180px;
     bottom: 85px;
@@ -1889,17 +1889,6 @@
     color: var(--text-normal);
     border-radius: var(--border-radius);
     overflow: hidden;
-}
-// JavaScript code to update the content dynamically
-function updateContent() {
-    const container = document.querySelector('[class*=layers] > [class*=layer] > [class*=container]');
-    const contents = ["I'm Barbie Doll Luvscox, a pretty, empty-headed toy, made for use and pleasure. ♥", "Content 2", "Content 3", "Content 4"]; // List of contents to cycle through
-    let currentIndex = 0;
-
-    setInterval(() => {
-        container.setAttribute('data-content', contents[currentIndex]);
-        currentIndex = (currentIndex + 1) % contents.length;
-    }, 5000); // Change content every 5 seconds (5000 milliseconds)
 }
 
 // Call the function when the DOM is fully loaded
